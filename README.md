@@ -1,6 +1,6 @@
 # GitHub Contribution Wallpaper Generator
 
-![GitHub Contributions Wallpaper]() A Python script that fetches your GitHub contribution data and generates a dynamic desktop wallpaper. It can also automatically update the wallpaper to keep your contribution graph fresh on your desktop!
+![GitHub Contributions Wallpaper](https://github.com/EbadShabbir/Github_Graph_Wallpaper/blob/main/github_wallpaper.png) A Python script that fetches your GitHub contribution data and generates a dynamic desktop wallpaper. It can also automatically update the wallpaper to keep your contribution graph fresh on your desktop!
 
 ---
 
